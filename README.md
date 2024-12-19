@@ -1,4 +1,4 @@
-##　サーバー起動
+## サーバー起動
 java -classpath classes ch.idsia.scenarios.MainRun -server on
 
 ## マリオの学習
