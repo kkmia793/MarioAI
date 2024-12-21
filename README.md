@@ -1,8 +1,4 @@
-## サーバー起動
-java -classpath classes ch.idsia.scenarios.MainRun -server on
+## 作品概要
+スーパーマリオブラザーズ(を模したゲーム)を自動操作する AIを遺伝的アルゴリズムを用いて制作したもの
 
-## マリオの学習
-python src/python/competition/learn.py
 
-## 最高スコアのマリオ
-python src/python/competition/ipymario.py
