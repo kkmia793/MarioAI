@@ -4,4 +4,4 @@
 ## 使用言語
 Python 
 
-参考サイト：　https://morishin.hatenablog.com/entry/marioai-2009　
+参考サイト：　https://blog.morishin.me/posts/2016/12/19/marioai-2009
